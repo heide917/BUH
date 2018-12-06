@@ -76,6 +76,8 @@
     <Compile Include="Repositories\ICategorieRepository.cs" />
     <Compile Include="Repositories\IClassRepository.cs" />
     <Compile Include="Repositories\IUserRepository.cs" />
+    <Compile Include="Services\Abstraction\IFirstRunService.cs" />
+    <Compile Include="Services\Concrete\FirstRunService.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

@@ -6,3 +6,4 @@ D:\Projects\BUH\BUH.DOMAIN\obj\Debug\BUH.Domain.csproj.CoreCompileInputs.cache
 D:\Projects\BUH\BUH.DOMAIN\obj\Debug\BUH.Domain.csproj.CopyComplete
 D:\Projects\BUH\BUH.DOMAIN\obj\Debug\BUH.Domain.dll
 D:\Projects\BUH\BUH.DOMAIN\obj\Debug\BUH.Domain.pdb
+D:\Projects\BUH\BUH.DOMAIN\obj\Debug\BUH.Domain.csprojAssemblyReference.cache
