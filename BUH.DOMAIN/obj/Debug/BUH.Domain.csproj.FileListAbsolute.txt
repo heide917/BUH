@@ -1,0 +1,8 @@
+D:\Projects\BUH\BUH.DOMAIN\bin\Debug\BUH.Domain.dll
+D:\Projects\BUH\BUH.DOMAIN\bin\Debug\BUH.Domain.pdb
+D:\Projects\BUH\BUH.DOMAIN\bin\Debug\System.ValueTuple.dll
+D:\Projects\BUH\BUH.DOMAIN\bin\Debug\System.ValueTuple.xml
+D:\Projects\BUH\BUH.DOMAIN\obj\Debug\BUH.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\BUH\BUH.DOMAIN\obj\Debug\BUH.Domain.csproj.CopyComplete
+D:\Projects\BUH\BUH.DOMAIN\obj\Debug\BUH.Domain.dll
+D:\Projects\BUH\BUH.DOMAIN\obj\Debug\BUH.Domain.pdb
